@@ -23,6 +23,7 @@ public class GrueneWelle {
 	 */
 	public static void main(String[] args) {
 		new GrueneWelle();
+		System.out.println("Test");
 	}
 
 }
